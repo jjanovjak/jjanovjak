@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @jjanovjak
-- 👀 I’m interested in getting better at coding.
-- 🌱 I’m currently learning at codeacademy
-- 💞️ I’m looking to collaborate on ...
+- 😎 Hi, my name is Joe. My handle on here is @jjanovjak.
+- 🐒 I have had a wide and varied career with a number of fascinating experiences.
+- 👀 I’m interested in improving my abilities at coding and development.
+- 🌱 I’m currently involved with DIY learning through udemy.com
+- 💞️ I’m looking to collaborate on possible projects where I hit a roadblock...
 - 📫 How to reach me ...
 
 <!---
